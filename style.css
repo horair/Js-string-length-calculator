@@ -1,0 +1,32 @@
+h1
+{
+    text-align: center;
+}
+#form
+{
+    border: 1px solid greenyellow;
+    max-width: 350px;
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 37%;
+    
+}
+input
+{
+    border: 2px solid green;
+}
+button
+{
+    background-color: rgb(102, 189, 102);
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    color: white;
+}
+#result
+{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
